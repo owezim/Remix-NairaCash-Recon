@@ -1,0 +1,8 @@
+{
+  "name": "Remix NairaCash Recon - Finacle Automated Reconciliation \u0026 Discrepancy Engine",
+  "description": "Automated cash drawer denomination calculator and Finacle core banking balance reconciliation engine with real-time discrepancy detection and audit reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
